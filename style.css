@@ -2,7 +2,7 @@ body {
   background: #3d4773;
   margin: 0;
   padding: 0;
-  
+  box-sizing: border-box;
 }
 
 .txt h1  {
