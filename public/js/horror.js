@@ -135,14 +135,13 @@ const cardsFromServer = [
     platformGame: "PC",
     imageLink: "https://img.itch.zone/aW1nLzE4MDc1NjUzLmpwZw==/315x250%23c/feqsvY.jpg",
   },
- 
+  
   
 ];
 
 function renderCard(content) {
   const card = document.createElement("div");
   card.classList.add("card");
-
   card.innerHTML = `
     <div class="card-header">
     <img src="${content.imageLink}" alt="${content.name}" />

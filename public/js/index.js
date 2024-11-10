@@ -142,7 +142,14 @@ const cardsFromServer = [
     platformGame: "PC",
     imageLink: "https://i.pinimg.com/originals/fd/31/3f/fd313ff20c9a57bedee9ed58512a0c13.png",
   },
- 
+  
+  {
+    id: 21,
+    name: "POCKET ROGUES",
+    downloadLink: "https://drive.google.com/file/d/1FH7wNtA5wLm_8Drpsinb8sNxy0YkRs4Z/view?usp=sharing",
+    platformGame: "PC",
+    imageLink: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.V2NkPaKweYEs2gwPWSC9awHaHa%26pid%3DApi&f=1&ipt=c1cdf017fd84f43afba648fe9e2ec2ec38d98021feb2f51fe7c19cc00ba5337a&ipo=images",
+  },
   
 ];
 
