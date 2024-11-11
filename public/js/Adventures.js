@@ -58,13 +58,6 @@ const cardsFromServer = [
     imageLink: "https://img.itch.zone/aW1nLzE1MTQ3Mzc3LmpwZw==/315x250%23c/VMFpgl.jpg",
   },
   {
-    id: 9,
-    name: "Here can be you'r ads !",
-    downloadLink: "https://t.me/+M7y54QKSCv1lODUy",
-    platformGame: "PC, Switch, PS4, Xbox One, Mobile",
-    imageLink: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEPtvwppzRPe_HLwdlfSr0HQFRrNrlLbexhQ&s",
-  },
-  {
     id: 10,
     name: "Submit you'r game!",
     downloadLink: "https://t.me/+Gbp5wNg7WHFjN2Ey",

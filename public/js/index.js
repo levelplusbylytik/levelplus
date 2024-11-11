@@ -1,5 +1,5 @@
 const cards = document.querySelector(".cards");
-console.log("cards", cards);
+
 const cardsFromServer = [
   {
     id: 1,
@@ -62,7 +62,7 @@ const cardsFromServer = [
     name: "Here can be you'r ads !",
     downloadLink: "https://t.me/+M7y54QKSCv1lODUy",
     platformGame: "PC, Switch, PS4, Xbox One, Mobile",
-    imageLink: "https://1c-reklama.ru/upload/medialibrary/ab2/ab26e49a61e36a597ec889cf196d9145.jpg",
+    imageLink: "",
   },
   {
     id: 10,
