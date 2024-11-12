@@ -153,7 +153,7 @@ function renderCard(content) {
       <p>Plataforma: ${content.platformGame}</p>
   
       <a class="btn" href="${content.downloadLink}" target="_blank">Download</a>
-      <a class="btn" href="details-page.html?id=${content.id}" > details</a>
+      <a class="btn" href="/details-page.html?id=${content.id}" > details</a>
     </div>
   `;
   cards.appendChild(card);

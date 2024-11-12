@@ -166,7 +166,7 @@ function renderCard(content) {
       <h2>${content.name}</h2>
       <p>Plataforma: ${content.platformGame}</p>
         <a class="btn" href="${content.downloadLink}" target="_blank">Download</a>
-        <a class="btn" href="details-page.html?id=${content.id}" > details</a>
+        <a class="btn" href="/details-page.html?id=${content.id}" > details</a>
 
     </div>
   `;
