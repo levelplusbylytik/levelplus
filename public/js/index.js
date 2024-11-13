@@ -8,8 +8,6 @@ const path = window.location.pathname;
 
 console.log(path);
 
-
-
 function renderCard(content) {
   const card = document.createElement("div");
   card.classList.add("card");
