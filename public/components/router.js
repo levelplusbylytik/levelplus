@@ -1,4 +1,4 @@
-import cardsFromServer from "/cards";
+import cardsFromServer from "/cards.js";
 
 
 // Define routes as a mapping of paths to functions
