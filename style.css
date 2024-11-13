@@ -200,8 +200,7 @@ h6 {
   text-align: center;
   justify-content: center;
   gap: 30px;
-  align-items: baseline;
-  align-items: baseline;
+  align-items: center;
 }
 
 .hello h1 {
