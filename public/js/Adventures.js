@@ -1,5 +1,4 @@
 const cards = document.querySelector(".cards");
-console.log("cards", cards);
 const cardsFromServer = [
   {
     id: 1,
