@@ -2,7 +2,7 @@ const cards = document.querySelector('.cards');
 
 console.log(cards);
 
-import cardsFromServer from "./cards";
+import cardsFromServer from "/cards";
 
 const path = window.location.pathname;
 
