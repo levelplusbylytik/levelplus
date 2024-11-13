@@ -25,7 +25,7 @@ function renderCard(content) {
 
     </div>
   `;
-  cards.appendChild(card);
+  return card;
 };
 
 cardsFromServer.forEach((card) => {

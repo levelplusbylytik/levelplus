@@ -1,5 +1,4 @@
 const cards = document.querySelector(".cards");
-console.log("cards", cards);
 const cardsFromServer = [
   {
     id: 1,
@@ -136,6 +135,8 @@ const cardsFromServer = [
  
   
 ];
+
+alert('Racing');
 
 function renderCard(content) {
   const card = document.createElement("div");
