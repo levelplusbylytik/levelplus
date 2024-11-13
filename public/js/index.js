@@ -62,7 +62,7 @@ const cardsFromServer = [
     name: "Here can be you'r ads !",
     downloadLink: "https://t.me/+M7y54QKSCv1lODUy",
     platformGame: "PC, Switch, PS4, Xbox One, Mobile",
-    imageLink: "",
+    imageLink: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.AUPxIYZdu2tIpo8IdbxsFwHaHa%26pid%3DApi&f=1&ipt=a2492592b8474bf94be1c11c7d09f4cafe1230a41f1a6d3e860c46621b4ebf03&ipo=images",
   },
   {
     id: 10,
