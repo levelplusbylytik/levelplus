@@ -90,7 +90,7 @@ const cardsFromServer = [
     {
       id: 9,
       name: "Here can be you'r ads !",
-      downloadLink: "https://t.me/+M7y54QKSCv1lODUy",
+      downloadLink: "https://t.me/Adsforlevelplus_bot",
       platformGame: "PC, Switch, PS4, Xbox One, Mobile",
       categories: "",
       description: "",
@@ -101,7 +101,7 @@ const cardsFromServer = [
     {
       id: 10,
       name: "Submit you'r game!",
-      downloadLink: "https://t.me/+Gbp5wNg7WHFjN2Ey",
+      downloadLink: "https://t.me/publishyourgame_bot",
       platformGame: "PC, PS4, Xbox One, Switch , Mobile",
       categories: "",
       description: "",
