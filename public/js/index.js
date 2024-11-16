@@ -14,7 +14,7 @@ function renderCard(content) {
   card.classList.add("card");
 
   card.innerHTML = `
-    <div class="card-header">
+    <div class="card-header">che
     <img src="${content.imageLink}" alt="${content.name}" />
     </div>
     
