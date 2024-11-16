@@ -1,4 +1,4 @@
-
+alert("!!☢ВНИМАНИЕ В НАШЕМ СООБЩЕСТВЕ ПРОГОЛОСОВАЛИ ЗА РАННИЙ ВЫХОД САЙТА С БАГОМ В ОПИСАНИИ И ПОИСКОВИКЕ И КОСЫМ ИНТЕРФЕЙСОМ НА ТЕЛЕФОНЕ НАШ ТЕЛЕГРАМ КАНАЛ https://t.me/lysikgames ☢ ");
 const cards = document.querySelector('.cards');
 
 console.log(cards);
@@ -32,5 +32,5 @@ function renderCard(content) {
 cardsFromServer.forEach((card) => {
   renderCard(card);
 });
-alert("!!☢ВНИМАНИЕ В НАШЕМ СООБЩЕСТВЕ ПРОГОЛОСОВАЛИ ЗА РАННИЙ ВЫХОД САЙТА С БАГОМ В ОПИСАНИИ И ПОИСКОВИКЕ И КОСЫМ ИНТЕРФЕЙСОМ НА ТЕЛЕФОНЕ НАШ ТЕЛЕГРАМ КАНАЛ https://t.me/lysikgames ☢ ");
+
 
