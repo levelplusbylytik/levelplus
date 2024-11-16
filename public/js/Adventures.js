@@ -3,6 +3,7 @@ const cardsFromServer = [
   {
     id: 1,
     name: "Minecraft ",
+    categorys: "adventures"
     downloadLink: "https://drive.google.com/file/d/1i0Mo71ERtnHjDAetHBMTcd9Ki1On4cr-/view?usp=sharing",
     platformGame: "Mobile",
     imageLink: "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23BR5V/807627b274ee47a2a4e20bc010ec4d5e.png/f/minecraft-java-bedrock-edition.png",
