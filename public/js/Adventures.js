@@ -3,7 +3,7 @@ const cardsFromServer = [
   {
     id: 1,
     name: "Minecraft ",
-    categorys: "adventures",
+    categorys:"adventure",
     downloadLink: "https://drive.google.com/file/d/1i0Mo71ERtnHjDAetHBMTcd9Ki1On4cr-/view?usp=sharing",
     platformGame: "Mobile",
     imageLink: "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23BR5V/807627b274ee47a2a4e20bc010ec4d5e.png/f/minecraft-java-bedrock-edition.png",
@@ -18,7 +18,6 @@ const cardsFromServer = [
   {
     id: 3,
     name: "NFS Underground 1+2",
-    categorys:"raicing",
     downloadLink: "https://drive.google.com/file/d/1xXRaXIYh9acaVDPJTAMcQYeyIafqV3X9/view?usp=sharing",
     platformGame: "PC + Playstation 2",
     imageLink: "https://assets-prd.ignimgs.com/2022/02/08/nfsunderground-sq-1644282923090.jpg",
