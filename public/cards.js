@@ -5,9 +5,9 @@ const cardsFromServer = [
       downloadLink: "https://drive.google.com/file/d/1i0Mo71ERtnHjDAetHBMTcd9Ki1On4cr-/view?usp=sharing",
       platformGame: "Mobile",
       categories: "adventures",
-      description: "",
+      description: "In Minecraft, players explore a procedurally generated, three-dimensional world with virtually infinite terrain made up of voxels. Players can discover and extract raw materials, craft tools and items, and build structures, earthworks, and machines.",
       rating: 9,
-      system: "",
+      system: "Android Version: 5.0 and up. Processor: Any with support for floating-point calculations (ARMv7 and up) Graphics: Any with support for OpenGL ES 2.0. Storage: 300 MB (for game and some maps)",
       imageLink: "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23BR5V/807627b274ee47a2a4e20bc010ec4d5e.png/f/minecraft-java-bedrock-edition.png",
     },
     {
