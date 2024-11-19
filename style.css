@@ -69,6 +69,17 @@ body {
     transition: all 600ms ease;
     flex-direction: column;
   }
+  .nav img {
+    width: 50px;
+    display: flex;
+    margin-left: 1200px;
+    transition: all 400ms ease;
+    margin-top: 5px;
+  }
+  .nav img:hover {
+    transition: all 400ms ease;
+    transform: rotateZ(360deg);
+  }
 
     
   
