@@ -24,7 +24,7 @@ body {
     justify-content: center;
   }
 
-  .na  {
+  .na a  {
   display: inline-flex;
   position: relative;
   align-items: center;
