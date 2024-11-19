@@ -4,6 +4,20 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+@media (max-width: 492px) {
+  .navigation{
+   font-size: small;
+   font-weight: 100;
+   margin-right: 500px;
+  }
+  @media (min-width: 900px) {
+    .navigation{
+      font-size: large;
+    }
+
+  }
+  
+}
 
 .txt h1  {
     display: flex;
