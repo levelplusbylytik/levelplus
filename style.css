@@ -179,6 +179,7 @@ h6 {
   width: 100%;
   gap: 10px;
   justify-items: center;
+
 }
 
 .card {
@@ -190,7 +191,7 @@ h6 {
   flex-direction: column;
   position: relative;
   height: 430px;
-  
+  margin-left: 15px;
 
 }
 
