@@ -24,7 +24,7 @@ body {
     justify-content: center;
   }
 
-  .na a  {
+  .na   {
   display: inline-flex;
   position: relative;
   align-items: center;
@@ -51,7 +51,24 @@ body {
     flex-direction: column;
     font-size: 85px;
   }
-
+  .nav a {
+    display: inline-flex;
+    position: relative;
+    align-items: center;
+    list-style-type: none;
+    font-size: 35px;
+    transition: all 900ms ease;
+    text-decoration: none;
+    color: white;
+    margin-top: 35px;
+    flex-direction: column;
+    padding-left: 35px;
+  } 
+  .nav a:hover {
+    color: #000000;
+    transition: all 600ms ease;
+    flex-direction: column;
+  }
 
     
   
