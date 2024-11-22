@@ -250,7 +250,7 @@ const cardsFromServer = [
       name: "Vitalik's Adventures  OFFICAL GAME✅",
       downloadLink: "https://drive.google.com/file/d/1EAQwcU47wU-_PNz_lrC0UfTIEZ8cXpO8/view?usp=sharing",
       platformGame: "PC",
-      categories: "horrors",
+      categories: "adventures",
       description: "",
       rating: 8,
       system: "",
