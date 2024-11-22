@@ -232,6 +232,32 @@ const cardsFromServer = [
       system: "",
       imageLink: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.V2NkPaKweYEs2gwPWSC9awHaHa%26pid%3DApi&f=1&ipt=c1cdf017fd84f43afba648fe9e2ec2ec38d98021feb2f51fe7c19cc00ba5337a&ipo=images",
     },
+
+    {
+      id: 22,
+      name: "KOR OFFICAL GAME✅ ",
+      downloadLink: "https://drive.google.com/file/d/17dpa1QXmlqG8GZ0kIonew6gCr3KB2DDu/view?usp=sharing",
+      platformGame: "PC",
+      categories: "horrors",
+      description: "",
+      rating: 8,
+      system: "",
+      imageLink: "https://img.itch.zone/aW1nLzE4Njg1NDE1LnBuZw==/347x500/trtyC%2B.png",
+    },
+
+    {
+      id: 23,
+      name: "Vitalik's Adventures  OFFICAL GAME✅",
+      downloadLink: "https://drive.google.com/file/d/1EAQwcU47wU-_PNz_lrC0UfTIEZ8cXpO8/view?usp=sharing",
+      platformGame: "PC",
+      categories: "horrors",
+      description: "",
+      rating: 8,
+      system: "",
+      imageLink: "https://img.itch.zone/aW1nLzE4Njg1ODM0LnBuZw==/347x500/hY6j7o.png",
+    },
+    
+    
     
   ];
 
