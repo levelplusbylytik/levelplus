@@ -254,7 +254,6 @@ h6 {
 
 .card-description {
   background-color: #e48719;
-  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -263,6 +262,7 @@ h6 {
   position: absolute;
   bottom: 0;
   width: 100%;
+  display: flex;
 }
 .btn { 
   text-decoration: none; 
@@ -284,7 +284,13 @@ h6 {
   transition: scale 400ms ease;
 }
 .card img:hover{scale: 1.1;}
-
+.card:hover .card-description{
+  display: flex;
+  transition: all 400ms ease;
+}
+.card:hover .card-description{
+  display: flex;
+}
 .main-content {
   padding: 20px;
   display: flex;

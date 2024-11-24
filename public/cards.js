@@ -252,9 +252,21 @@ const cardsFromServer = [
       platformGame: "PC",
       categories: "adventures",
       description: "",
-      rating: 8,
+      rating: 6,
       system: "",
       imageLink: "https://img.itch.zone/aW1nLzE4Njg1ODM0LnBuZw==/347x500/hY6j7o.png",
+    },
+
+    {
+      id: 24,
+      name: "Hotline Miami 1 and 2",
+      downloadLink: "https://drive.google.com/file/d/1kz4UmbHAF9-C4lQk0zsYaLXs6yWhLMS5/view?usp=sharing",
+      platformGame: "PC",
+      categories: "adventures",
+      description: "",
+      rating: 8,
+      system: "",
+      imageLink: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFujbplfb6XU47arI-zrXpUbSu-gHchpkuOA&s",
     },
     
     
