@@ -1,7 +1,7 @@
 {
   "name": "plus",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.9.9",
   "homepage": "https://levelplusbylytik.github.io/levelplus",
   "type": "module",
   "scripts": {
