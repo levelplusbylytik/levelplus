@@ -1,13 +1,9 @@
 alert("!!☢ВНИМАНИЕ В НАШЕМ СООБЩЕСТВЕ ПРОГОЛОСОВАЛИ ЗА РАННИЙ ВЫХОД САЙТА С БАГОМ В ОПИСАНИИ И С БАГОМ В КАТЕГОРИЯХ https://t.me/lysikgames ✅ДЛЯ ПЕРЕХОДА НА СТРАНИЦУ САЙТА С ИГРАМИ НАЖМИТЕ ОК✅ ☢ ");
 const cards = document.querySelector('.cards');
 
-console.log(cards);
-
-// import cardsFromServer from "/cards.js";
+import cardsFromServer from "../cards.js";
 
 const path = window.location.pathname;
-
-console.log(path);
 
 function renderCard(content) {
   const card = document.createElement("div");
@@ -23,7 +19,6 @@ function renderCard(content) {
       <p>Plataforma: ${content.platformGame}</p>
         <a class="btn" href="${content.downloadLink}" target="_blank">Download</a>
         <a class="btn" href="/details-page.html?id=${content.id}" > details</a>
-
     </div>
   `;
   return card;

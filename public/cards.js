@@ -1,7 +1,7 @@
 const cardsFromServer = [
     {
       id: 1,
-      name: "Minecraft ",
+      name: "Minecraft",
       downloadLink: "https://drive.google.com/file/d/1i0Mo71ERtnHjDAetHBMTcd9Ki1On4cr-/view?usp=sharing",
       platformGame: "Mobile",
       categories: "adventures",
